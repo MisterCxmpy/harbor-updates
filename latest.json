@@ -1,19 +1,19 @@
 {
-  "version": "0.4.10",
+  "version": "0.4.11",
   "notes": "",
-  "pub_date": "2026-05-12T12:05:37Z",
+  "pub_date": "2026-05-12T16:21:16Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUGFWc2hHNkw3YVNNSDhWeFRoV25zd1ZXUk40ZTNjRjJIRjRBUWthK1ZOQWJkRyt5Z0RyVnBMVGhDNXVBQUt3ckE5d04rWHpsZG8vTytlV1FWYzFPenVDa3dVWjNTZWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTg3NTMwCWZpbGU6SGFyYm9yLmFwcC50YXIuZ3oKZkRHTW81NUpXSndmRDI0NzArdTF5dEx2dllmY1lEQll6M1JMV1QwZWpWcmNBdENyYmZvRy9ERVhPYU1rUXVhaGNmUjQrN1krVTVBNnd4UGtwZHhKQXc9PQo=",
-      "url": "https://github.com/MisterCxmpy/harbor-updates/releases/download/v0.4.10/Harbor.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUGFWc2hHNkw3YVUzSERBR3diTVlVdXRUQitBTjlNTUVkUnQzOWZZc0tXbUZRN0RjelNYaWI4NHVJVGVsbUlnL3FYdjlaUlNTNU5JREswOHN0ZE9NQ3AvRnNoRWNKTndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NjAyODY4CWZpbGU6SGFyYm9yLmFwcC50YXIuZ3oKajRDTE5OTGpLaHJScVc3eTZSbzhzUlJiQUdHWmR5SU9kYVl0U3NkWVdNYkt4bjR0RC9hVVNrYUJVSWVzWUN3TnBVZGFISW9BOWRmQzJyNGVnYjZBQkE9PQo=",
+      "url": "https://github.com/MisterCxmpy/harbor-updates/releases/download/v0.4.11/Harbor.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUGFWc2hHNkw3YVNNSDhWeFRoV25zd1ZXUk40ZTNjRjJIRjRBUWthK1ZOQWJkRyt5Z0RyVnBMVGhDNXVBQUt3ckE5d04rWHpsZG8vTytlV1FWYzFPenVDa3dVWjNTZWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTg3NTMwCWZpbGU6SGFyYm9yLmFwcC50YXIuZ3oKZkRHTW81NUpXSndmRDI0NzArdTF5dEx2dllmY1lEQll6M1JMV1QwZWpWcmNBdENyYmZvRy9ERVhPYU1rUXVhaGNmUjQrN1krVTVBNnd4UGtwZHhKQXc9PQo=",
-      "url": "https://github.com/MisterCxmpy/harbor-updates/releases/download/v0.4.10/Harbor.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUGFWc2hHNkw3YVUzSERBR3diTVlVdXRUQitBTjlNTUVkUnQzOWZZc0tXbUZRN0RjelNYaWI4NHVJVGVsbUlnL3FYdjlaUlNTNU5JREswOHN0ZE9NQ3AvRnNoRWNKTndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NjAyODY4CWZpbGU6SGFyYm9yLmFwcC50YXIuZ3oKajRDTE5OTGpLaHJScVc3eTZSbzhzUlJiQUdHWmR5SU9kYVl0U3NkWVdNYkt4bjR0RC9hVVNrYUJVSWVzWUN3TnBVZGFISW9BOWRmQzJyNGVnYjZBQkE9PQo=",
+      "url": "https://github.com/MisterCxmpy/harbor-updates/releases/download/v0.4.11/Harbor.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUGFWc2hHNkw3YVNNSDhWeFRoV25zd1ZXUk40ZTNjRjJIRjRBUWthK1ZOQWJkRyt5Z0RyVnBMVGhDNXVBQUt3ckE5d04rWHpsZG8vTytlV1FWYzFPenVDa3dVWjNTZWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTg3NTMwCWZpbGU6SGFyYm9yLmFwcC50YXIuZ3oKZkRHTW81NUpXSndmRDI0NzArdTF5dEx2dllmY1lEQll6M1JMV1QwZWpWcmNBdENyYmZvRy9ERVhPYU1rUXVhaGNmUjQrN1krVTVBNnd4UGtwZHhKQXc9PQo=",
-      "url": "https://github.com/MisterCxmpy/harbor-updates/releases/download/v0.4.10/Harbor.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUGFWc2hHNkw3YVUzSERBR3diTVlVdXRUQitBTjlNTUVkUnQzOWZZc0tXbUZRN0RjelNYaWI4NHVJVGVsbUlnL3FYdjlaUlNTNU5JREswOHN0ZE9NQ3AvRnNoRWNKTndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NjAyODY4CWZpbGU6SGFyYm9yLmFwcC50YXIuZ3oKajRDTE5OTGpLaHJScVc3eTZSbzhzUlJiQUdHWmR5SU9kYVl0U3NkWVdNYkt4bjR0RC9hVVNrYUJVSWVzWUN3TnBVZGFISW9BOWRmQzJyNGVnYjZBQkE9PQo=",
+      "url": "https://github.com/MisterCxmpy/harbor-updates/releases/download/v0.4.11/Harbor.app.tar.gz"
     }
   }
 }
